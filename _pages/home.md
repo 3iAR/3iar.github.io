@@ -154,7 +154,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 
 <div class="row">
   <div class="col-md-12">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}"></a>
+    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="">TBD</a></b> TBD.
     </p>
@@ -163,7 +163,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 
 <div class="row">
   <div class="col-md-12">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/grauman.png" | prepend:site.baseurl }}"></a>
+    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="">TBD</a></b> TBD 
     </p>
@@ -181,7 +181,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/angel.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Dr. Hossein Javidnia</a>
@@ -191,7 +191,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/daniel.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Dr. Soumyabrata Dev</a>
@@ -201,7 +201,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Prof. François Pitié</a>
@@ -211,7 +211,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Prof. Peter Corcoran</a>
