@@ -156,7 +156,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
   <div class="col-md-12">
     <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href=>SPK1</a></b> DSC1.
+      <b><a href="">TBD</a></b> TBD.
     </p>
   </div>
 </div><br>
@@ -165,7 +165,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
   <div class="col-md-12">
     <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/grauman.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="">SPK2</a></b> DSC2 
+      <b><a href="">TBD</a></b> TBD 
     </p>
   </div>
 </div><br>
