@@ -232,7 +232,7 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 <div class="row">
   <div class="col-xs-12">
     <p>
-      This workshop is proudly sponsored by:: 
+      This workshop is proudly sponsored by: 
     </p>
   </div>
 </div>
