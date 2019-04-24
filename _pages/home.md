@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>3D Reconstruction and Interactive Augmented Reality (3IAR)11</h1></center>
+    <center><h1>3D Reconstruction and Interactive Augmented Reality (3IAR)</h1></center>
     <center><h2>ACPR 2019 Workshop, Auckland, New Zealand</h2></center>
     <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
     <center>Tuesday November 26 2019, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
