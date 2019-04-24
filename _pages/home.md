@@ -181,7 +181,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/hossein.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Dr. Hossein Javidnia</a>
@@ -191,7 +191,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/som.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Dr. Soumyabrata Dev</a>
@@ -201,7 +201,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/francois.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Prof. François Pitié</a>
@@ -211,7 +211,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 
   <div class="col-xs-2">
     <a href="">
-      <img class="people-pic" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/peter.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Prof. Peter Corcoran</a>
