@@ -80,7 +80,7 @@ acknowledgements: ""
 <li>Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).</li>
 <li>All the papers must be submitted using the provided templates.</li>
         </ul>
-<br>Workshop proceedings will be published after the conference in the CCIS series of Springer through the ACPR organizers (publication chair)
+Workshop proceedings will be published after the conference in the CCIS series of Springer through the ACPR organizers (publication chair)
 <br><u>NOTE</u>: Registration for workshops is included in the conference registration, i.e., all the registered ACPR participants are free to attend any of the workshops (besides all the sessions of the main conference).
     </p>
   </div>
