@@ -74,14 +74,14 @@ acknowledgements: ""
     </ul>
     <p>
       <span style="font-weight:500;">Submission:</span> <i>Paper submission portal will be available soon.</i>
-We are looking forward to submissions, following the enlisted guidelines:
-Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
+<br>We are looking forward to submissions, following the enlisted guidelines:     
+<hr>Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
 Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).
 All the papers must be submitted using the provided templates.
 
 Workshop proceedings will be published after the conference in the CCIS series of Springer through the ACPR organizers (publication chair)
 
-NOTE: Registration for workshops is included in the conference registration, i.e., all the registered ACPR participants are free to attend any of the workshops (besides all the sessions of the main conference).
+<u>NOTE:</u> Registration for workshops is included in the conference registration, i.e., all the registered ACPR participants are free to attend any of the workshops (besides all the sessions of the main conference).
     </p>
   </div>
 </div><br>
