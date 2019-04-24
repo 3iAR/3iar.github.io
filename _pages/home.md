@@ -73,7 +73,7 @@ acknowledgements: ""
       <li>Deep learning for graphics</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> Paper submission portal will be available soon.
+      <span style="font-weight:500;">Submission:</span> <i>Paper submission portal will be available soon.</i>
 We are looking forward to submissions, following the enlisted guidelines:
 Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
 Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).
