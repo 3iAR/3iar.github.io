@@ -232,13 +232,13 @@ NOTE: Registration for workshops is included in the conference registration, i.e
 <div class="row">
   <div class="col-xs-12">
     <p>
-      This workshop is proudly sponsored by:: 
+      This workshop is proudly sponsored by: 
     </p>
   </div>
 </div>
 <div class="row">
   <div class="col-md-4">
-    <a href="https://www.adaptcentre.ie/"><img src="{{ "/static/img/people/Adapt_Logo_RGB2.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.adaptcentre.ie/"><img src="{{ "/static/img/people/Adapt_Logo_RGB.png" | prepend:site.baseurl }}"></a>
   </div>
 </div><br>
 {% endif %}
