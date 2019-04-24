@@ -22,14 +22,14 @@ acknowledgements: ""
 
 <hr>
 
-<div class="row" id="intro">
+<div class="row">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
   </div>
 </div>
 
 <br>
-<div class="row" id="cfp">
+<div class="row" id="intro">
   <div class="col-xs-12">
     <h2>Introduction</h2>
   </div>
@@ -51,7 +51,7 @@ acknowledgements: ""
   </div>
 </div> <br>   
 
-<div class="row">
+<div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
   </div>
@@ -86,7 +86,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
   </div>
 </div><br>
 
-<div class="row" id="schedule">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
@@ -118,7 +118,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 </div><br>
 
 
-<div class="row">
+<div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
   </div>
@@ -146,7 +146,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 </div>
 
 <br>
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
   </div>
@@ -171,7 +171,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 </div><br>
 
 
-<div class="row">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
