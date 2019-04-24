@@ -180,41 +180,41 @@ Workshop proceedings will be published after the conference in the CCIS series o
 <div class="row">
 
   <div class="col-xs-2">
-    <a href="">
+    <a href="https://www.hjavidnia.com/">
       <img class="people-pic" src="{{ "/static/img/people/hossein.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="">Dr. Hossein Javidnia</a>
+      <a href="https://www.hjavidnia.com/">Dr. Hossein Javidnia</a>
       <h6>ADAPT Centre, Trinity College Dublin, Ireland</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="">
+    <a href="https://soumyabrata.dev/">
       <img class="people-pic" src="{{ "/static/img/people/som.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="">Dr. Soumyabrata Dev</a>
+      <a href="https://soumyabrata.dev/">Dr. Soumyabrata Dev</a>
       <h6>ADAPT Centre, Trinity College Dublin, Ireland</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="">
+    <a href="https://www.tcd.ie/research/profiles/?profile=pitief">
       <img class="people-pic" src="{{ "/static/img/people/francois.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="">Prof. François Pitié</a>
+      <a href="https://www.tcd.ie/research/profiles/?profile=pitief">Prof. François Pitié</a>
       <h6>Trinity College Dublin, Ireland</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
-    <a href="">
+    <a href="http://www.nuigalway.ie/our-research/people/engineering-and-informatics/petercorcoran/">
       <img class="people-pic" src="{{ "/static/img/people/peter.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="">Prof. Peter Corcoran</a>
+      <a href="http://www.nuigalway.ie/our-research/people/engineering-and-informatics/petercorcoran/">Prof. Peter Corcoran</a>
       <h6>National University of Ireland Galway, Ireland</h6>
     </div>
   </div>
