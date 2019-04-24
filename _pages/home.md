@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "2019 Workshop on 3D Reconstruction and Interactive Augmented Reality (3IAR)"
 title: "2019 Workshop on 3D Reconstruction and Interactive Augmented Reality (3IAR)"
-categories: acpr, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, reinforcement learning
+categories: acpr, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, reinforcement learning, augmented reality
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
