@@ -241,7 +241,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
     <a href="https://www.adaptcentre.ie/"><img src="{{ "/static/img/people/Adapt_Logo_RGB2.png" | prepend:site.baseurl }}"></a>
   </div>
 </div><br>
-</div>
+
 <br>
 <div class="row">
   <div class="col-xs-12">
