@@ -241,4 +241,13 @@ Workshop proceedings will be published after the conference in the CCIS series o
     <a href="https://www.adaptcentre.ie/"><img src="{{ "/static/img/people/Adapt_Logo_RGB2.png" | prepend:site.baseurl }}"></a>
   </div>
 </div><br>
+</div>
+<br>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      Thanks to <a href="https://visualdialog.org/">visualdialog.org</a> and <a href="https://3dscenegen.github.io/">3D Scene Generation workshop</a> for the webpage format.
+    </p>
+  </div>
+</div>
 {% endif %}
