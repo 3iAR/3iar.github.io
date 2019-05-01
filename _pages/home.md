@@ -80,10 +80,10 @@ acknowledgements: ""
 <li>Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).</li>
 <li>All the papers must be submitted using the provided templates.</li>
      <ul>
-        <li><a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip"><style="color: #3366ff;">LaTeX2e Proceedings Templates (zip)</a></li>
-        <li><a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi">LaTeX2e Proceedings Templates - Overleaf</a></li>
-       <li><a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">Microsoft Word Proceedings Templates (zip)</a></li>
-       <li><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/7117506/data/v1">Microsoft Word 2003 Proceedings Templates (zip)</a></li>
+        <li><a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip"><span style="color: #3366ff;">LaTeX2e Proceedings Templates (zip)</span></a></li>
+        <li><a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi"><span style="color: #3366ff;">LaTeX2e Proceedings Templates - Overleaf</span></a></li>
+       <li><a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip"><span style="color: #3366ff;">Microsoft Word Proceedings Templates (zip)</span></a></li>
+       <li><a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/7117506/data/v1"><span style="color: #3366ff;">Microsoft Word 2003 Proceedings Templates (zip)</span></a></li>
      </ul>
         </ul>
 Workshop proceedings will be published after the conference in the CCIS series of Springer through the ACPR organizers (publication chair)
