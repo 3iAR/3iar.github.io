@@ -73,7 +73,7 @@ acknowledgements: ""
       <li>Deep learning for graphics</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span><strong><a href="https://cmt3.research.microsoft.com/3IAR2019" target="_blank" rel="noopener"><span style="color: #3366ff;">Click here for Submission</span></a></strong>
+      <span style="font-weight:500;">Submission:</span><strong><a href="https://cmt3.research.microsoft.com/3IAR2019" target="_blank" rel="noopener"><span style="color: #3366ff;"> Click here for Submission</span></a></strong>
 <br>We are looking forward to submissions, following the enlisted guidelines:
       <ul>
 <li>Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.</li>
