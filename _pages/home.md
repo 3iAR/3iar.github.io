@@ -151,6 +151,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
   </div>
 </div>
 
+<br>
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
