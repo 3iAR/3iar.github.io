@@ -151,32 +151,6 @@ Workshop proceedings will be published after the conference in the CCIS series o
   </div>
 </div>
 
-<br>
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="">TBD</a></b> TBD.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href=""><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/noimage.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="">TBD</a></b> TBD 
-    </p>
-  </div>
-</div><br>
-
-
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
