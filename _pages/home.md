@@ -104,7 +104,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>September 10, 2019 (No Extension)</td>
+          <td>September 16, 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
